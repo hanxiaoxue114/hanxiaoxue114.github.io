@@ -13,7 +13,7 @@ body{
 a{
 	text-decoration:none;
 	font-weight:400;
-	color:#a80707
+	color:#008000
 }
 a:hover{
 	color:#000
@@ -28,7 +28,7 @@ a:hover{
 	display:block;
 	width:0;
 	height:2px;
-	background:#000;
+	background:#008000;
 	transition:width .3s
 }
 .cool-link:hover::after{
