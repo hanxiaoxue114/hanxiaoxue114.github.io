@@ -132,15 +132,15 @@ a:hover{
 }
 .content 
 .profile-picture{
-	height:130px;
-	width:130px;
+	height:250px;
+	width:200px;
 	position:relative;
 	margin:0px 20px 20px 20px;
 	float:left;
-	border-radius:50%
+	border-radius:0
 } 
 .student-picture{
-	border-radius:50%
+	border-radius:0
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
