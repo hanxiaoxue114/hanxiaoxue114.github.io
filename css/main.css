@@ -132,12 +132,12 @@ a:hover{
 }
 .content 
 .profile-picture{
-	height:130px;
+	height:200px;
 	width:130px;
 	position:relative;
 	margin:0px 20px 20px 20px;
 	float:left;
-	border-radius:50%
+	border-radius:0
 } 
 .student-picture{
 	border-radius:50%
