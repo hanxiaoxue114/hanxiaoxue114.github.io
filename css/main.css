@@ -20,7 +20,7 @@ a:hover{
 }
 .cool-link{
 	display:inline-block;
-	color:#000;
+	color:#1e8449;
 	text-decoration:none
 }
 .cool-link::after{
