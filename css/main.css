@@ -16,7 +16,7 @@ a{
 	color: #1e8449
 }
 a:hover{
-	color:#000
+	color:#1e8449
 }
 .cool-link{
 	display:inline-block;
@@ -28,7 +28,7 @@ a:hover{
 	display:block;
 	width:0;
 	height:2px;
-	background:#000;
+	background:#1e8449;
 	transition:width .3s
 }
 .cool-link:hover::after{
@@ -42,7 +42,7 @@ hr{
 }
 #author-name{
 	font-size:30px;
-	color:#272727;
+	color: #1e8449;
 	display:inline-block}
 .navbar{
 	padding:50px 0 50px 0
@@ -126,7 +126,7 @@ a:hover{
 	left:-30px
 }
 .content blockquote{
-	border-left:5px solid #333333;
+	border-left:5px solid #1e8449;
 	margin:10px 0 10px 0;
 	padding:0px 8px 0px 8px
 }
