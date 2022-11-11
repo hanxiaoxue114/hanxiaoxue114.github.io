@@ -29,7 +29,7 @@ a:hover{
 	display:block;
 	width:0;
 	height:2px;
-	background:#1e8449;
+	background:#e9f7ef;
 	transition:width .3s
 }
 .cool-link:hover::after{
@@ -185,7 +185,7 @@ table{
 	margin:0;
     border-spacing: 0;}
 table tr{
-	background-color:white;
+	background-color:#e9f7ef;
 	margin:0;
 	padding:0
 }
