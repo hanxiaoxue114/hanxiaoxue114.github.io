@@ -21,9 +21,12 @@ a:hover{
 }
 
 .logo {
-  position: fixed;
-  bottom: 0;
-  right: 0;
+	height:80px;
+	width:80px;
+	position:relative;
+	margin:0px 20px 20px 20px;
+	float:left;
+	border-radius:20%
 }
 
 .cool-link{
