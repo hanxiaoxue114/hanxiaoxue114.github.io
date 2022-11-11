@@ -19,6 +19,13 @@ a{
 a:hover{
 	color:#1e8449
 }
+
+.logo {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
 .cool-link{
 	display:inline-block;
 	color:#1e8449;
