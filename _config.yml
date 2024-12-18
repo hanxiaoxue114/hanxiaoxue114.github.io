@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sandy X. Han 韩晓雪 "
+title                    : "Sandy X. Han"
 title_separator          : "-"
 name                     : &name "Sandy X. Han"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sandy X. Han 韩晓雪"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am seeking a research or software engineering internship for the summer of 2025 in the fields of machine learning, graph learning, and natural language processing."
   location         : "Hoboken, New Jersey"
   employer         : "Stevens Institute of Technology"
   # uri              : # URL
