@@ -15,6 +15,16 @@ With the rapid advancements in **Large Language Models (LLMs)**, I see immense p
 
 Feel free to reach out if you share similar research interests or have innovative ideas in these areas. I am always open to discussions and collaborations!
 
+### News
+* 2024. 11 - I received NeurIPS 2024 Scholar Award.
+* 2025. 11 - Paper on EHR prediction accepted by IEEE BigData 2024 Workshop on Big Data and AI for Healthcare.
+* 2024. 9 - Paper on Continual Graph Learning accepted by NeurIPS 2024.
+* 2024. 4 - I passed my Defense Proposal. Offically a PhD candidate!
+* 2022. 11 - I received the ICDM 20222 Student Travel Award.
+  
+
+  
+
 ### Education
 
 * University of Arizona, B.S. in Mechanical Engineering, 2014 - 2018
