@@ -21,7 +21,7 @@ repository               : "hanxiaoxue114/hanxiaoxue114.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sandy.png"
+  avatar           : "sandy.jpg"
   name             : "Sandy X. Han 韩晓雪"
   pronouns         : # example: "she/her"  
   bio              : "I am seeking a research or software engineering internship for the summer of 2025 in the fields of machine learning, graph learning, and natural language processing."
