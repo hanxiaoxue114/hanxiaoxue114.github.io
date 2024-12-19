@@ -15,4 +15,10 @@ With the rapid advancements in **Large Language Models (LLMs)**, I see immense p
 
 Feel free to reach out if you share similar research interests or have innovative ideas in these areas. I am always open to discussions and collaborations!
 
+### Education
+
+* University of Arizona, B.S. in Mechanical Engineering, 2014 - 2018
+* Virginia Tech, M.S. in Mechanical Engineering, 2018 - 2020
+* Stevens Institute of Technology, Ph.D in Computer Science, 2021 - Now
+
 
