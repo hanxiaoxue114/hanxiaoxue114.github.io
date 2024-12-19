@@ -26,6 +26,7 @@ redirect_from:
 [***IEEE BigData, 2024***] MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records
 <br>
 Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <be> 
+
 *BigData'24 Workshop on Big Data and AI for Healthcare*
 
 [***Arxiv***] A Computationally Efficient Hybrid Neural Network Architecture for Porous Media: Integrating CNNs and GNNs for Improved Permeability Prediction
