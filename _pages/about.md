@@ -27,8 +27,10 @@ Feel free to reach out if you share similar research interests or have innovativ
 
 ### Education
 
-* University of Arizona, B.S. in Mechanical Engineering, 2014 - 2018
-* Virginia Tech, M.S. in Mechanical Engineering, 2018 - 2020
 * Stevens Institute of Technology, Ph.D in Computer Science, 2021 - Now
+* Virginia Tech, M.S. in Mechanical Engineering, 2018 - 2020
+* University of Arizona, B.S. in Mechanical Engineering, 2014 - 2018
+
+
 
 
