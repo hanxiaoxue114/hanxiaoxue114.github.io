@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+<img align="top" width="600" src="/images/model.pdf" />
 [***NeurIPS, 2024***] A Topology-aware Graph Coarsening Framework for Continual Graph Learning
 <br>
 **Xiaoxue Han**, Zhuo Feng, Yue Ning <be> 
