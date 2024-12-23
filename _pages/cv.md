@@ -9,28 +9,25 @@ redirect_from:
 
 <img align="top" width="600" src="/images/TACO.png" />
 
-[***NeurIPS, 2024***] A Topology-aware Graph Coarsening Framework for Continual Graph Learning
+[***NeurIPS, 2024***] [A Topology-aware Graph Coarsening Framework for Continual Graph Learning](https://nips.cc/virtual/2024/poster/94876) [[Paper]](/files/TACO_paper.pdf) [[GitHub]](https://github.com/hanxiaoxue114/TACO)
 <br>
-**Xiaoxue Han**, Zhuo Feng, Yue Ning <br> 
-[paper](/files/TACO_paper.pdf) <be>
+**Xiaoxue Han**, Zhuo Feng, Yue Ning <be>
 <br><br> 
 
 
 <img align="top" width="600" src="/images/MTG.png" />
 
-[***ICDM, 2022***] Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction
+[***ICDM, 2022***] [Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction](https://ieeexplore.ieee.org/document/10027692) [[Paper]](/files/MTG_paper.pdf) [[GitHub]](https://github.com/hanxiaoxue114/TACO)
 <br>
-**Xiaoxue Han**, Yue Ning <br> 
-[paper](/files/MTG_paper.pdf) <be>
+**Xiaoxue Han**, Yue Ning <be>
 <br><br> 
 
 <img align="top" width="500" src="/images/MPlite.png" />
 
-[***IEEE BigData, 2024***] MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records
+[***IEEE BigData, 2024***] MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records [[Paper]](/files/MPLite_paper.pdf)
 <br>
 Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br> 
-*BigData'24 Workshop on Big Data and AI for Healthcare* <br>
-[paper](/files/MPLite_paper.pdf) <be>
+*BigData'24 Workshop on Big Data and AI for Healthcare* <be>
 
 [***Arxiv***] DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification
 <br>
