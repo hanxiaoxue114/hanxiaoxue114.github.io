@@ -20,7 +20,8 @@ redirect_from:
 
 [***ICDM, 2022***] Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction
 <br>
-**Xiaoxue Han**, Yue Ning <be> 
+**Xiaoxue Han**, Yue Ning <br> 
+[paper](/files/MTG_paper.pdf) <be>
 <br><br> 
 
 <img align="top" width="500" src="/images/MPlite.png" />
@@ -28,7 +29,8 @@ redirect_from:
 [***IEEE BigData, 2024***] MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records
 <br>
 Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br> 
-*BigData'24 Workshop on Big Data and AI for Healthcare* <be>
+*BigData'24 Workshop on Big Data and AI for Healthcare* <br>
+[paper](/files/MPLite_paper.pdf) <be>
 
 [***Arxiv***] DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification
 <br>
