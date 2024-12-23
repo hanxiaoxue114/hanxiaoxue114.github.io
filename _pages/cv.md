@@ -11,7 +11,8 @@ redirect_from:
 
 [***NeurIPS, 2024***] A Topology-aware Graph Coarsening Framework for Continual Graph Learning
 <br>
-**Xiaoxue Han**, Zhuo Feng, Yue Ning <be> 
+**Xiaoxue Han**, Zhuo Feng, Yue Ning <br> 
+[paper](/files/TACO_paper.pdf) <be>
 <br><br> 
 
 
