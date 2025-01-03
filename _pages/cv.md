@@ -29,13 +29,13 @@ redirect_from:
 Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br> 
 *BigData'24 Workshop on Big Data and AI for Healthcare* <be>
 
+[***Advances in Water Resources***] [A computationally efficient hybrid neural network architecture for porous media: Integrating convolutional and graph neural networks for improved property predictions](https://www.sciencedirect.com/science/article/abs/pii/S0309170824002689)
+<br>
+Qingqi Zhao, **Xiaoxue Han**, Ruichang Guo, Cheng Chen <be> 
+
 [***Arxiv***] DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification
 <br>
 **Xiaoxue Han**, Huzefa Rangwala, Yue Ning <be> 
-
-[***Arxiv***] A Computationally Efficient Hybrid Neural Network Architecture for Porous Media: Integrating CNNs and GNNs for Improved Permeability Prediction
-<br>
-Qingqi Zhao, **Xiaoxue Han**, Ruichang Guo, Cheng Chen <be> 
 
 [***Journal of Medical Devices, 2023***] Autonomous Cricothyroid Membrane Detection and Manipulation Using Neural Networks and a Robot Arm for First-Aid Airway Management
 <br>
