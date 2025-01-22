@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+[***AISTATS, 2025***] DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification
+<br>
+**Xiaoxue Han**, Huzefa Rangwala, Yue Ning <be> 
+
 <img align="top" width="600" src="/images/TACO.png" />
 
 [***NeurIPS, 2024***] [A Topology-aware Graph Coarsening Framework for Continual Graph Learning](https://nips.cc/virtual/2024/poster/94876) [[Paper]](/files/TACO_paper.pdf) [[GitHub]](https://github.com/hanxiaoxue114/TACO)
@@ -33,9 +37,6 @@ Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br>
 <br>
 Qingqi Zhao, **Xiaoxue Han**, Ruichang Guo, Cheng Chen <be> 
 
-[***Arxiv***] DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification
-<br>
-**Xiaoxue Han**, Huzefa Rangwala, Yue Ning <be> 
 
 [***Journal of Medical Devices, 2023***] Autonomous Cricothyroid Membrane Detection and Manipulation Using Neural Networks and a Robot Arm for First-Aid Airway Management
 <br>
