@@ -14,7 +14,7 @@ No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowle
 
 
 ## **Conferences**
-[***AISTATS, 2025***] DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification <br>
+[***AISTATS, 2025***] [DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification](https://openreview.net/forum?id=2EhGTwqwX2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)) [[Paper]](/files/DeCaf_AISTATS2025.pdf) <br>
 **Xiaoxue Han**, Huzefa Rangwala, Yue Ning <be> 
 
 <img align="top" width="600" src="/images/TACO.png" />
@@ -25,14 +25,10 @@ No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowle
 <br><br> 
 
 
-<img align="top" width="600" src="/images/MTG.png" />
-
 [***ICDM, 2022***] [Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction](https://ieeexplore.ieee.org/document/10027692) [[Paper]](/files/MTG_paper.pdf) [[GitHub]](https://github.com/hanxiaoxue114/TACO)
 <br>
 **Xiaoxue Han**, Yue Ning <be>
 <br><br> 
-
-<img align="top" width="500" src="/images/MPlite.png" />
 
 [***IEEE BigData, 2024***] MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records [[Paper]](/files/MPLite_paper.pdf)
 <br>
