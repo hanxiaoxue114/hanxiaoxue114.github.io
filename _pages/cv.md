@@ -14,8 +14,12 @@ No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowle
 
 
 ## **Conferences**
+
+<img align="top" width="500" src="/images/DeCaf.png" />
+
 [***AISTATS, 2025***] [DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification](https://openreview.net/forum?id=2EhGTwqwX2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)) [[Paper]](/files/DeCaf_AISTATS2025.pdf) <br>
 **Xiaoxue Han**, Huzefa Rangwala, Yue Ning <be> 
+
 
 <img align="top" width="600" src="/images/TACO.png" />
 
