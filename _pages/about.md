@@ -16,6 +16,8 @@ With the rapid advancements in **Large Language Models (LLMs)**, I see immense p
 Feel free to reach out if you share similar research interests or have innovative ideas in these areas. I am always open to discussions and collaborations!
 
 ### News
+* 2025.5, I will be joining the Meta FAIR lab as a summer intern.
+* 2025.5, I received Stevens Excellence Doctoral Fellowship!
 * 2025.1, Paper on graph OOD generalization accepted by AISTATS 2025. 
 * 2024.11, I received NeurIPS 2024 Scholar Award.
 * 2025.11, Paper on EHR prediction accepted by IEEE BigData 2024 Workshop on Big Data and AI for Healthcare.
