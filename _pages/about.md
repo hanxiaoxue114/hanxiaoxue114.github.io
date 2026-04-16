@@ -16,6 +16,9 @@ I have industry experience at **Amazon Web Services** (Applied Scientist Intern,
 Feel free to reach out if you share similar research interests or have innovative ideas in these areas. I am always open to discussions and collaborations!
 
 ### News
+
+<div style="max-height:9.5em; overflow-y:auto; border:1px solid #e1e4e8; border-radius:6px; padding:0.5em 1em;">
+
 * 2025.10, Joined Amazon Web Services as Applied Scientist Intern.
 * 2025.5, Paper on agentic causal discovery for healthcare accepted by EMNLP 2025 Findings.
 * 2025.5, Joined Meta FAIR lab as a summer ML intern.
@@ -27,8 +30,10 @@ Feel free to reach out if you share similar research interests or have innovativ
 * 2024.4, I passed my Defense Proposal. Officially a PhD candidate!
 * 2022.10, I received the ICDM 2022 Student Travel Award.
 * 2022.8, Paper on social event prediction accepted by ICDM 2022.
-* 2022.8, I passed my oral qualification exam. 
-   
+* 2022.8, I passed my oral qualification exam.
+
+</div>
+
 
 ### Industry Experience
 
