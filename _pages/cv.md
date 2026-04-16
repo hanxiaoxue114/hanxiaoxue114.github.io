@@ -9,10 +9,10 @@ redirect_from:
 
 ## **Preprints**
 
-[***Arxiv***] Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning <br>
+[***Arxiv***] [Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning](https://arxiv.org/abs/2604.11986) <br>
 **Xiaoxue Han**, Libo Zhang, Zining Zhu, Yue Ning
 
-UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare <br>
+[UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare](https://arxiv.org/abs/2506.06977) <br>
 Pengfei Hu, **Xiaoxue Han**, Fei Wang, Yue Ning
 
 
@@ -20,7 +20,7 @@ Pengfei Hu, **Xiaoxue Han**, Fei Wang, Yue Ning
 
 <img align="top" width="500" src="/images/DeCaf.png" />
 
-[***EMNLP 2025, Findings***] No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery <br>
+[***EMNLP 2025, Findings***] [No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery](https://aclanthology.org/2025.findings-emnlp.1271/) [[Arxiv]](https://arxiv.org/abs/2505.16288) <br>
 **Xiaoxue Han**, Pengfei Hu, Jun-En Ding, Chang Lu, Feng Liu, Yue Ning
 <br><br> 
 
@@ -36,7 +36,7 @@ Pengfei Hu, **Xiaoxue Han**, Fei Wang, Yue Ning
 **Xiaoxue Han**, Zhuo Feng, Yue Ning
 <br><br> 
 
-[***ICDM, 2025***] AdaTrip: Adaptive Graph on Transformer for Multi-Reservoir Inflow Prediction <br>
+[***ICDM, 2025***] [AdaTrip: Adaptive Graph on Transformer for Multi-Reservoir Inflow Prediction](https://arxiv.org/abs/2511.07649) <br>
 Pengfei Hu, Ming Fan, **Xiaoxue Han**, Chang Lu, Wei Zhang, Hyun Kang, Yue Ning, Dan Lu
 <br><br>
 
@@ -51,20 +51,20 @@ Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br>
 **Xiaoxue Han**, Yue Ning
 <br><br> 
 
-[***IDETC, 2020***] Autonomous Cricothyroid Membrane Detection Using Neural Networks for First-Aid Surgical Airway Management
+[***IDETC, 2020***] [Autonomous Cricothyroid Membrane Detection Using Neural Networks for First-Aid Surgical Airway Management](https://doi.org/10.1115/DETC2020-22190)
 <br>
 **Xiaoxue Han**, Hailin Ren, Pinhas Ben-Tzvi
 
 
 ## **Journals**
 
-[***Environmental Modelling & Software, 2026***] AGFormer: Adaptive Spatiotemporal Graph Informed Transformer for Multi-Reservoir Inflow Forecasting <br>
+[***Environmental Modelling & Software, 2026***] [AGFormer: Adaptive Spatiotemporal Graph Informed Transformer for Multi-Reservoir Inflow Forecasting](https://www.sciencedirect.com/science/article/abs/pii/S136481522600085X) <br>
 Ming Fan, Pengfei Hu, **Xiaoxue Han**, Wei Zhang, Hyun Kang, Yue Ning, Dan Lu
 
-[***Advances in Water Resources, 2025***] A computationally efficient hybrid neural network architecture for porous media: Integrating CNNs and GNNs for improved property predictions <br>
+[***Advances in Water Resources, 2025***] [A computationally efficient hybrid neural network architecture for porous media: Integrating CNNs and GNNs for improved property predictions](https://www.sciencedirect.com/science/article/abs/pii/S0309170824002689) [[Arxiv]](https://arxiv.org/abs/2311.06418) <br>
 Qingqi Zhao, **Xiaoxue Han**, Ruichang Guo, Cheng Chen
 
-[***Journal of Medical Devices, 2023***] Autonomous Cricothyroid Membrane Detection and Manipulation Using Neural Networks and a Robot Arm for First-Aid Surgical Airway Management
+[***Journal of Medical Devices, 2023***] [Autonomous Cricothyroid Membrane Detection and Manipulation Using Neural Networks and a Robot Arm for First-Aid Surgical Airway Management](https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/17/1/014502/1154444/)
 <br>
 **Xiaoxue Han**, Hailin Ren, Jingyuan Qi, Pinhas Ben-Tzvi
 
