@@ -12,7 +12,7 @@ redirect_from:
 [***Arxiv***] [Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning](https://arxiv.org/abs/2604.11986) <br>
 **Xiaoxue Han**, Libo Zhang, Zining Zhu, Yue Ning
 
-[UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare](https://arxiv.org/abs/2506.06977) <br>
+[***Arxiv***] [UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare](https://arxiv.org/abs/2506.06977) <br>
 Pengfei Hu, **Xiaoxue Han**, Fei Wang, Yue Ning
 
 
