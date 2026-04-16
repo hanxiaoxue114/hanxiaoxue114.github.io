@@ -10,10 +10,10 @@ redirect_from:
 ## **Preprints**
 
 [***Arxiv***] Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning <br>
-**Xiaoxue Han**, et al.
+**Xiaoxue Han**, Libo Zhang, Zining Zhu, Yue Ning
 
 UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare <br>
-Pengfei Hu, **Xiaoxue Han**, et al.
+Pengfei Hu, **Xiaoxue Han**, Fei Wang, Yue Ning
 
 
 ## **Conferences**
@@ -37,7 +37,7 @@ Pengfei Hu, **Xiaoxue Han**, et al.
 <br><br> 
 
 [***ICDM, 2025***] AdaTrip: Adaptive Graph on Transformer for Multi-Reservoir Inflow Prediction <br>
-Pengfei Hu, Mingyang Fan, **Xiaoxue Han**, et al.
+Pengfei Hu, Ming Fan, **Xiaoxue Han**, Chang Lu, Wei Zhang, Hyun Kang, Yue Ning, Dan Lu
 <br><br>
 
 [***IEEE BigData, 2024***] MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records [[Paper]](/files/MPLite_paper.pdf)
@@ -59,10 +59,10 @@ Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br>
 ## **Journals**
 
 [***Environmental Modelling & Software, 2026***] <br>
-Mingyang Fan, Pengfei Hu, **Xiaoxue Han**, Wenyu Zhang, Haoyu Kang, Yue Ning, Dingbao Lu
+Ming Fan, Pengfei Hu, **Xiaoxue Han**, Wei Zhang, Hyun Kang, Yue Ning, Dan Lu
 
 [***Advances in Water Resources, 2025***] A computationally efficient hybrid neural network architecture for porous media: Integrating CNNs and GNNs for improved property predictions <br>
-Qiuzi Zhao, **Xiaoxue Han**, et al.
+Qingqi Zhao, **Xiaoxue Han**, Ruichang Guo, Cheng Chen
 
 [***Journal of Medical Devices, 2023***] Autonomous Cricothyroid Membrane Detection and Manipulation Using Neural Networks and a Robot Arm for First-Aid Surgical Airway Management
 <br>
