@@ -12,9 +12,6 @@ redirect_from:
 [***Arxiv***] Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning <br>
 **Xiaoxue Han**, et al.
 
-No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery <br>
-**Xiaoxue Han**, Pengfei Hu, Jun-En Ding, Chang Lu, Feng Liu, Yue Ning
-
 UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare <br>
 Pengfei Hu, **Xiaoxue Han**, et al.
 
