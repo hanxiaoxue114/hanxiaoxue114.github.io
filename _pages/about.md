@@ -7,32 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at Stevens Institute of Technology (2021–present), advised by Prof. [Yue Ning](https://yue-ning.github.io/). My research centers on **Graph Neural Networks (GNNs)**, with a focus on developing robust and trustworthy models that can adapt to diverse scenarios and overcome real-world challenges. Specifically, my work addresses critical issues such as **catastrophic forgetting in continual learning**, **out-of-distribution (OOD) generalization** under distribution shifts, and **graph privacy protection** against adversarial attacks with **Differential Privacy (DP)**.
+I am a final-year PhD student at Stevens Institute of Technology (2021–present), advised by Prof. [Yue Ning](https://yue-ning.github.io/). My research spans **Foundation Models**, **LLM Post-Training & Agents**, **Reliable & Verifiable AI Systems**, and **Graph Learning**.
 
-I am also enthusiastic about applying GNNs and other advanced machine learning methods to solve real-world problems across domains such as **societal event prediction** and **Electronic Health Record (EHR)** prediction. My work on permeability prediction with GNNs also highlights the potential of cutting-edge deep learning techniques in **AI for science**.
+My work focuses on developing robust and trustworthy machine learning models that can adapt to diverse real-world scenarios. I address critical challenges including **LLM reasoning and verification** through neurosymbolic approaches, **out-of-distribution (OOD) generalization** under distribution shifts, and **continual learning** on graph-structured data. I am also passionate about applying advanced ML methods to impactful domains such as **predictive healthcare** and **AI for science**.
 
-With the rapid advancements in **Large Language Models (LLMs)**, I see immense potential in leveraging them to enhance the generalizability of GNNs. I am also eager to explore **Graph Foundation Models**. 
+I have industry experience at **Amazon Web Services** (Applied Scientist Intern, Fall 2025) working on neurosymbolic verification for reliable LLM reasoning, and at **Meta AI / FAIR** (ML Engineer Intern, Summer 2025) working on pruning-aware training for efficient neural networks.
 
 Feel free to reach out if you share similar research interests or have innovative ideas in these areas. I am always open to discussions and collaborations!
 
 ### News
-* 2025.5, I will be joining the Meta FAIR lab as a summer intern.
+* 2025.10, Joined Amazon Web Services as Applied Scientist Intern.
+* 2025.5, Paper on agentic causal discovery for healthcare accepted by EMNLP 2025 Findings.
+* 2025.5, Joined Meta FAIR lab as a summer ML intern.
 * 2025.5, I received Stevens Excellence Doctoral Fellowship!
 * 2025.1, Paper on graph OOD generalization accepted by AISTATS 2025. 
 * 2024.11, I received NeurIPS 2024 Scholar Award.
-* 2025.11, Paper on EHR prediction accepted by IEEE BigData 2024 Workshop on Big Data and AI for Healthcare.
+* 2024.11, Paper on EHR prediction accepted by IEEE BigData 2024 Workshop on Big Data and AI for Healthcare.
 * 2024.9, Paper on Continual Graph Learning accepted by NeurIPS 2024.
 * 2024.4, I passed my Defense Proposal. Officially a PhD candidate!
-* 2022.10, I received the ICDM 20222 Student Travel Award.
+* 2022.10, I received the ICDM 2022 Student Travel Award.
 * 2022.8, Paper on social event prediction accepted by ICDM 2022.
 * 2022.8, I passed my oral qualification exam. 
    
 
 ### Education
 
-* Stevens Institute of Technology, Ph.D in Computer Science, 2021 - Now
-* Virginia Tech, M.S. in Mechanical Engineering, 2018 - 2020
-* University of Arizona, B.S. in Mechanical Engineering, 2014 - 2018
+* Stevens Institute of Technology, Ph.D in Computer Science, 2021 - 2026 (Expected)
+* Virginia Polytechnic Institute and State University, M.S. in Mechanical Engineering (Robotics Focus), 2018 - 2020
+* University of Arizona, B.S. in Mechanical Engineering; Minor in Mathematics, 2014 - 2018
 
 
 

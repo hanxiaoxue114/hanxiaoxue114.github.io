@@ -22,6 +22,9 @@ main:
     
   - title: "Publications"
     url: /publications/
-    
+
+  - title: "Industry Experience"
+    url: /industry/
+
   # - title: "Guide"
   #   url: /markdown/
