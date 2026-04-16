@@ -17,7 +17,7 @@ Feel free to reach out if you share similar research interests or have innovativ
 
 ### News
 
-<div style="max-height:9.5em; overflow-y:auto; border:1px solid #e1e4e8; border-radius:6px; padding:0.5em 1em;">
+<div style="max-height:9.5em; overflow-y:auto; border:1px solid #e1e4e8; border-radius:6px; padding:0.5em 1em;" markdown="1">
 
 * 2025.10, Joined Amazon Web Services as Applied Scientist Intern.
 * 2025.5, Paper on agentic causal discovery for healthcare accepted by EMNLP 2025 Findings.
