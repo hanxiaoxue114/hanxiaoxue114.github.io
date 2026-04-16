@@ -30,6 +30,13 @@ Feel free to reach out if you share similar research interests or have innovativ
 * 2022.8, I passed my oral qualification exam. 
    
 
+### Industry Experience
+
+* <img src="/images/aws-logo.svg" alt="AWS" style="height:1em; vertical-align:middle;" /> **Amazon Web Services** — Applied Scientist Intern, Fall 2025
+  * Neurosymbolic Verification for Reliable LLM Reasoning
+* <img src="/images/meta-logo.svg" alt="Meta" style="height:1em; vertical-align:middle;" /> **Meta AI (FAIR)** — ML Engineer Intern, Summer 2025
+  * Pruning-aware Training for CNNs and Vision Transformers
+
 ### Education
 
 * Stevens Institute of Technology, Ph.D in Computer Science, 2021 - 2026 (Expected)
