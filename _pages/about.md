@@ -32,10 +32,21 @@ Feel free to reach out if you share similar research interests or have innovativ
 
 ### Industry Experience
 
-* <img src="/images/aws-logo.svg" alt="AWS" style="height:1em; vertical-align:middle;" /> **Amazon Web Services** — Applied Scientist Intern, Fall 2025
-  * Neurosymbolic Verification for Reliable LLM Reasoning
-* <img src="/images/meta-logo.svg" alt="Meta" style="height:1em; vertical-align:middle;" /> **Meta AI (FAIR)** — ML Engineer Intern, Summer 2025
-  * Pruning-aware Training for CNNs and Vision Transformers
+<div style="display:flex; align-items:center; margin-bottom:0.8em;">
+  <div style="flex:1;">
+    <strong>Amazon Web Services</strong> — Applied Scientist Intern, Fall 2025<br>
+    <em>Neurosymbolic Verification for Reliable LLM Reasoning</em>
+  </div>
+  <img src="/images/aws-logo.svg" alt="AWS" style="height:50px; margin-left:1.5em;" />
+</div>
+
+<div style="display:flex; align-items:center; margin-bottom:0.8em;">
+  <div style="flex:1;">
+    <strong>Meta AI (FAIR)</strong> — ML Engineer Intern, Summer 2025<br>
+    <em>Pruning-aware Training for CNNs and Vision Transformers</em>
+  </div>
+  <img src="/images/meta-logo.svg" alt="Meta" style="height:40px; margin-left:1.5em;" />
+</div>
 
 ### Education
 
