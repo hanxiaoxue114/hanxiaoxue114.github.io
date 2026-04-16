@@ -58,7 +58,7 @@ Eric Yang, Pengfei Hu, **Xiaoxue Han**, Yue Ning <br>
 
 ## **Journals**
 
-[***Environmental Modelling & Software, 2026***] <br>
+[***Environmental Modelling & Software, 2026***] AGFormer: Adaptive Spatiotemporal Graph Informed Transformer for Multi-Reservoir Inflow Forecasting <br>
 Ming Fan, Pengfei Hu, **Xiaoxue Han**, Wei Zhang, Hyun Kang, Yue Ning, Dan Lu
 
 [***Advances in Water Resources, 2025***] A computationally efficient hybrid neural network architecture for porous media: Integrating CNNs and GNNs for improved property predictions <br>
